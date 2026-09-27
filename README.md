@@ -4,3 +4,6 @@ pandas : 3.0.5
 matplotlib : 3.10.9
 
 * bd08e2b (HEAD -> main) my_commit1
+
+* e02cf7f (HEAD -> main) my_commit2
+* bd08e2b my_commit1
